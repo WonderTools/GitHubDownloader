@@ -1,20 +1,12 @@
-<h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
+<h1> <img src="https://github.com/WonderTools/GitHubDownloader/raw/master/res/images/downgit.png" width="20" height=auto /> GitHubDownloader </h1>
 
 #### Create GitHub Resource Download Link
 
-With this tool you can directly download or create download link to any GitHub **public directory or file**.
-
-### Website
-
-[DownGit ↑](https://minhaskamal.github.io/DownGit)
-
-### How to Use?
-
-<table><tr><td> <img src="https://cloud.githubusercontent.com/assets/5456665/17822364/940bded8-6678-11e6-9603-b84d75bccec1.gif" /> </td></tr></table>
+With this [tool](https://wondertools.github.io/GitHubDownloader/) you can directly download or create download link to any GitHub **public directory or file**.
 
 ##### Advanced Usage
 
-A typical download URL will look like this- `https://minhaskamal.github.io/DownGit/#/home?url=<link>&fileName=<name>&rootDirectory=<true or false or name>`
+A typical download URL will look like this- `https://wondertools.github.io/GitHubDownloader/#/home?url=<link>&fileName=<name>&rootDirectory=<true or false or name>`
 
 Now, if you want to download this directory- **`https://github.com/MinhasKamal/DownGit/tree/master/res/images`** with this file name- **`DownGit-Images.zip`** and this root directory name- **`ImagesOfDownGit`**, then the URL will be- https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MinhasKamal/DownGit/tree/master/res/images&fileName=DownGit-Images&rootDirectory=ImagesOfDownGit
 
